@@ -1,2 +1,2 @@
 "# google-homepage" 
-# what the current project is and what skills you have demonstrated
+# what the current project is and what skills I have demonstrated
